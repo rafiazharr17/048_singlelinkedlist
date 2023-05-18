@@ -8,3 +8,5 @@ struct Node {
 
 };
 
+Node* START = NULL;
+
